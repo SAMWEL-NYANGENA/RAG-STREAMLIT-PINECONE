@@ -1,0 +1,3 @@
+__pycache__/echo *.pycecho venv/echo .envecho .DS_Storeecho .streamlit/secrets.tomlecho .vscode/echo .idea/
+venv/ 
+venv/ 

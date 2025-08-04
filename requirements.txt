@@ -1,0 +1,6 @@
+pyMUPDF
+python-docx
+streamlit
+pinecone
+sentence-transformers
+ollama
